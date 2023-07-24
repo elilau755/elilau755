@@ -1,4 +1,4 @@
-### 👋🏻 Hi, ELILAU here.
+# 👋🏻 Hi, ELILAU here.
 
 <!-- * 🎓 Communications Engineering Master Candidate at [🏫 NCU](https://www.ncu.edu.cn/) -->
 <!-- - 🔭 Currently Working on EEG Signal Processing and Emotion Recognition -->
